@@ -26,7 +26,7 @@ error **and every warning** from top to bottom!
 
 ## The Rules of the Hunt
 
-- There are **12 bugs**: some stop the game from building, some crash it or hang
+- There are **6 bugs**: some stop the game from building, some crash it or hang
   it, and some just make the game behave in ways that are ... playably weird.
   You may have to *play the game* to notice them.
 - Fix the bugs! Do **not** rewrite the program from scratch. Each fix should be
